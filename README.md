@@ -1,6 +1,5 @@
-# speendingTicket
-
-# 🚗 Multa por Velocidade – Comparando Soluções Humanas e de IA
+# 🚓 Speeding Ticket
+### Comparando soluções humanas e IA (ChatGPT) em Python
 
 Este repositório contém a implementação de uma atividade do curso técnico do IMD, baseada no estudo de Sarsa et al. (2022), cujo objetivo é exercitar habilidades de programação em Python através da resolução do problema “Multa por velocidade” e a comparação com soluções geradas por inteligência artificial.
 
