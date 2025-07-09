@@ -1,6 +1,6 @@
 
 """
-# Prompt utilizado para gerar o código no ChatGPT com Reasoning: :
+# 1º Prompt utilizado para gerar o código no ChatGPT com Reasoning: :
     Crie uma função chamada medida_velocidade, que recebe um único parâmetro, velocidade, e segue estas condições:
     Se a velocidade for acima de 120, imprima “Você foi multado em R$200”;
     Se a velocidade for acima de 100 e até 120, imprima “Você foi multado em R$100”;
